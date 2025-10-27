@@ -1,0 +1,73 @@
+# 🧠 Mastering the AI Toolkit  
+**Theme:** “Mastering the AI Toolkit” 🛠️🤖  
+**Course:** Artificial Intelligence Tools and Applications    
+**Author:** Kranch Francis  
+**Date:** October 2025  
+
+---
+
+## 📘 Overview
+This project demonstrates mastery of key AI tools and frameworks through theoretical analysis, practical implementation, and ethical reflection.  
+It combines **Scikit-learn**, **TensorFlow**, and **spaCy** in a unified workflow that covers:
+- Classical Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Ethical AI and Optimization
+
+---
+
+## 🧩 Project Structure
+| File | Description |
+|------|--------------|
+| `AI_Toolkit_Complete.ipynb` | Combined Colab notebook with all tasks (Scikit-learn, TensorFlow, spaCy, and Ethics). |
+| `Task1_Scikit_Iris.ipynb` | Decision Tree model on the Iris dataset. |
+| `Task2_TensorFlow_MNIST.ipynb` | CNN classifier for handwritten digits (MNIST dataset). |
+| `Task3_spaCy_NER.ipynb` | Named Entity Recognition and sentiment analysis on text reviews. |
+| `README.md` | Project overview and usage instructions. |
+
+---
+
+## 🚀 Tools & Frameworks
+- **Scikit-learn** → Classical ML (Decision Tree Classifier)  
+- **TensorFlow / Keras** → Deep Learning (CNN for MNIST)  
+- **spaCy + TextBlob** → NLP (NER and sentiment analysis)  
+- **Google Colab** → Cloud-based execution with GPU support  
+- **GitHub** → Code version control and collaboration  
+
+---
+
+## 📂 Dataset Sources
+| Dataset | Description | Source |
+|----------|--------------|--------|
+| **Iris Dataset** | Flower classification dataset | Scikit-learn built-in |
+| **MNIST Dataset** | Handwritten digits (0–9) | TensorFlow datasets |
+| **Amazon Product Reviews** | Sample text data | Custom example |
+
+---
+
+## 🧠 Project Parts
+
+### **Part 1 — Theoretical Understanding**
+- Compared TensorFlow, PyTorch, and Scikit-learn.
+- Explained Jupyter Notebook use cases.
+- Described spaCy’s NLP advantages.
+
+### **Part 2 — Practical Implementation**
+1. **Classical ML (Scikit-learn):**  
+   - Preprocessing and Decision Tree model on Iris dataset.  
+   - Evaluation metrics: Accuracy, Precision, Recall.  
+
+2. **Deep Learning (TensorFlow):**  
+   - CNN model achieving >95% accuracy on MNIST.  
+   - Visualization of accuracy and predictions.  
+
+3. **NLP (spaCy):**  
+   - NER and rule-based sentiment analysis on Amazon reviews.  
+
+### **Part 3 — Ethics & Optimization**
+- Reflected on dataset bias and model fairness.  
+- Demonstrated debugging and model optimization using early stopping.  
+- Promoted ethical AI principles: fairness, inclusivity, transparency.
+
+
+
